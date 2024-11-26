@@ -5,7 +5,7 @@
         "age" => 30,
         "ville" => "Paris"  
     ];
-    $personne["ville"] = "lyon";
+    $personne["ville"] = "Lyon";
 foreach ($personne as $key => $value ) {
     echo $key . " : "  . $value.    "\n";
 }
