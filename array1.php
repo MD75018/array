@@ -5,4 +5,5 @@ foreach ($fruits as $fruit => $value) {
     echo $value . "\n";
 }
 
+
 ?>
